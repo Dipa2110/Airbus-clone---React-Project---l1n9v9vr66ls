@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4c08358.css",
+    "main.js": "/static/js/main.c2551987.js",
+    "static/media/5858.jpg": "/static/media/5858.fc444bb3042c89817d0c.jpg",
+    "static/media/AIR.PA_BIG.png": "/static/media/AIR.PA_BIG.3d18db4feed3e2c6065a.png",
+    "index.html": "/index.html",
+    "main.c4c08358.css.map": "/static/css/main.c4c08358.css.map",
+    "main.c2551987.js.map": "/static/js/main.c2551987.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c08358.css",
+    "static/js/main.c2551987.js"
+  ]
+}
